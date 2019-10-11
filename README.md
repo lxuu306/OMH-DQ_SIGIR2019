@@ -28,8 +28,5 @@ If you find our approach useful in your research, please consider citing:
   year      = {2019},
   crossref  = {DBLP:conf/sigir/2019},
   url       = {https://doi.org/10.1145/3331184.3331217},
-  doi       = {10.1145/3331184.3331217},
-  timestamp = {Sun, 21 Jul 2019 17:52:47 +0200},
-  biburl    = {https://dblp.org/rec/bib/conf/sigir/Lu0CNZ19},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1145/3331184.3331217}
 }

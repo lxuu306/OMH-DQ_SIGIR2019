@@ -16,14 +16,14 @@ If you find our approach useful in your research, please consider citing:
 
 @inproceedings{'OMHDQ',
 
-  author    = {Xu Lu and Lei Zhu and Zhiyong Cheng and Liqiang Nie and Huaxiang Zhang},
+>author    = {Xu Lu and Lei Zhu and Zhiyong Cheng and Liqiang Nie and Huaxiang Zhang},
                
-  title     = {Online Multi-modal Hashing with Dynamic Query-adaption},
+>title     = {Online Multi-modal Hashing with Dynamic Query-adaption},
   
-  booktitle = {{SIGIR} 2019},
+>booktitle = {{SIGIR} 2019},
                
-  pages     = {715--724},
+>pages     = {715--724},
   
-  year      = {2019}
+>year      = {2019}
   
 }

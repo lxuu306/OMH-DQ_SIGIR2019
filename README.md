@@ -15,18 +15,30 @@ Please run demo_OMHDQ.m
 If you find our approach useful in your research, please consider citing:
 
 @inproceedings{'OMHDQ',
+
   author    = {Xu Lu and
+  
                Lei Zhu and
+               
                Zhiyong Cheng and
+               
                Liqiang Nie and
+               
                Huaxiang Zhang},
+               
   title     = {Online Multi-modal Hashing with Dynamic Query-adaption},
+  
   booktitle = {Proceedings of the 42nd International {ACM} {SIGIR} Conference on
                Research and Development in Information Retrieval, {SIGIR} 2019, Paris,
                France, July 21-25, 2019.},
+               
   pages     = {715--724},
+  
   year      = {2019},
+  
   crossref  = {DBLP:conf/sigir/2019},
+  
   url       = {https://doi.org/10.1145/3331184.3331217},
+  
   doi       = {10.1145/3331184.3331217}
 }
